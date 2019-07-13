@@ -24,7 +24,7 @@ window.storage("name");
 ```
 
 ```javascript
-window.storage("test",{"key":123456, "git":"gud"});
+window.storage("test",{"key":123456, "foo":"bar"});
 // true
 window.storage("test").key;
 // 123456
