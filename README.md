@@ -30,7 +30,7 @@ window.storage("test").key;
 // 123456
 ```
 
-As you can see, this plugin will also convert JSON to arrays and objects and, of cource, back (if it's able to)
+As you can see, this plugin will also converts arrays and objects to JSON and back.
 
 ### Clear whole localStorage
 Just pass 0 (zero) twice.
